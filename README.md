@@ -1,1 +1,1 @@
-# GIt Branching Demo
+# Git Branching Demo
